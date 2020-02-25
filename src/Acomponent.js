@@ -9,7 +9,7 @@ const Acomponent = () => {
             setData([
                 {label: 'a', value: 'a'},
                 {label: 'b', value: 'b'},
-                {label: 'c', value: 'c'},{label: 'd', value: 'd'}
+                {label: 'c', value: 'cgg'},{label: 'd', value: 'd'}
             ]);
         }, 2000)
     }, []);
