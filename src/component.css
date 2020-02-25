@@ -1,0 +1,13 @@
+.acomponent {
+    background: yellow;
+    border: 1px solid red;
+    width: 500px;
+    height: 500px;
+}
+
+.bcomponent {
+    background: grey;
+    border: 1px solid red;
+    width: 500px;
+    height: 500px;
+}
